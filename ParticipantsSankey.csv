@@ -1,0 +1,17 @@
+source,target,value
+Adulto,Bachelors,56
+Adulto,Graduate,44
+Adulto,HighSchoolOrCollege,131
+Adulto,Low,20
+Adulto-Joven,Bachelors,53
+Adulto-Joven,Graduate,44
+Adulto-Joven,HighSchoolOrCollege,131
+Adulto-Joven,Low,22
+Adulto-Mayor,Bachelors,57
+Adulto-Mayor,Graduate,41
+Adulto-Mayor,HighSchoolOrCollege,140
+Adulto-Mayor,Low,21
+Joven,Bachelors,66
+Joven,Graduate,41
+Joven,HighSchoolOrCollege,123
+Joven,Low,21
